@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SUSDK", "SUSDK.csproj", "{339B6708-F149-4371-8629-66A37C1E211C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{339B6708-F149-4371-8629-66A37C1E211C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{339B6708-F149-4371-8629-66A37C1E211C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{339B6708-F149-4371-8629-66A37C1E211C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{339B6708-F149-4371-8629-66A37C1E211C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
